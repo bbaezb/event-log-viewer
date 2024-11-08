@@ -1,4 +1,5 @@
 # Visualizador de Registro de Eventos
+![image](https://github.com/user-attachments/assets/d3cc15ad-4b57-4d31-be14-731759003ce5)
 
 ## Descripción
 
