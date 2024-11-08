@@ -41,15 +41,15 @@ La aplicación también ofrece funcionalidades para exportar los eventos filtrad
 2. **Crea un entorno virtual**:
 
    ```bash
-  python -m venv venv
-  source venv/bin/activate
+   python -m venv venv
+   source venv/bin/activate
 
 3. **Crea un entorno virtual**:
 
-  ```bash
-  pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 4. **Instala las dependencias**:
 
-  ```bash
-  python app.py
+    ```bash
+    python app.py
