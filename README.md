@@ -37,3 +37,16 @@ La aplicación también ofrece funcionalidades para exportar los eventos filtrad
    ```bash
    git clone https://github.com/tu_usuario/visualizador-eventos.git
    cd visualizador-eventos
+   
+2. **Crea un entorno virtual**:
+  |```bash
+  python -m venv venv
+  source venv/bin/activate
+
+3. **Crea un entorno virtual**:
+  |```bash
+  pip install -r requirements.txt
+
+4. **Instala las dependencias**:
+  |```bash
+  python app.py
