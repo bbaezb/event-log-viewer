@@ -52,4 +52,4 @@ La aplicación también ofrece funcionalidades para exportar los eventos filtrad
 4. **Instala las dependencias**:
 
     ```bash
-    python app.py
+    python eventos-logs.py
