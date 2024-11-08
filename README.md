@@ -35,7 +35,7 @@ La aplicación también ofrece funcionalidades para exportar los eventos filtrad
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/bbaezb/visualizador-eventos.git
+   git clone https://github.com/bbaezb/event-log-viewer.git
    cd visualizador-eventos
    
 2. **Crea un entorno virtual**:
